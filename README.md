@@ -2,9 +2,7 @@
 
 A feature-rich, cross-platform task management application built with Python and Tkinter. Manage your tasks with priorities, categories, due dates, analytics, and CSV import/export capabilities.
 
-[![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![Downloads](https://img.shields.io/github/downloads/yourusername/advanced-task-manager-pro/total)](https://github.com/yourusername/advanced-task-manager-pro/releases)
+
 
 ## ✨ Features
 
